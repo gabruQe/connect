@@ -13,6 +13,8 @@ public class Login {
     @BeforeClass
     public static void setupClass() {
         WebDriverManager.chromedriver().setup();
+
+        //NEW COMMENT
     }
 
     @Before
